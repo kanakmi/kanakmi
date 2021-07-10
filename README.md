@@ -34,5 +34,5 @@
 <img alt="Kanak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kanakmi&show_icons=true&count_private=true&theme=tokyonight" />
 <br/>
 
-### Connect with me:
-[<img align="left" alt="Kanak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kanakmi/)
+### Reach Out to me on:
+[<img align="left" alt="Kanak | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kanakmi/)
