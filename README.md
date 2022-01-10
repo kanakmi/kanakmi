@@ -1,7 +1,7 @@
 <p align="center">
   
-![Kanak2](https://user-images.githubusercontent.com/54859521/139429072-88a10959-24cd-4b89-bbab-e4f902e4b6b2.png)
-  
+ ![Kanak Header](https://user-images.githubusercontent.com/54859521/148762885-7d1b236f-6292-4e94-8500-d6efaf6069df.png)
+
 </p>
 
 ## Hi there, I'm Kanak Mittal 👋
