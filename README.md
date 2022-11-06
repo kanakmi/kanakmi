@@ -42,3 +42,5 @@
 
 ### Reach Out to me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanakmi/) [![Twitter](https://img.shields.io/badge/Kanakmi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kanakmi) [![Instagram](https://img.shields.io/badge/Kanak_mi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kanak_mi/)
+
+[![@kanakmi's Holopin board](https://holopin.me/kanakmi)](https://holopin.io/@kanakmi)
